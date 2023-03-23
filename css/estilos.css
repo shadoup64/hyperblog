@@ -44,12 +44,17 @@ body
 {
     font-size: 20px;
 }
-
 #post
 {
    
     padding: 1em;
     background: white;
+}
+#footer
+{
+    background : #777;
+    color: white;
+    text-align: center;
 
-  
+
 }
